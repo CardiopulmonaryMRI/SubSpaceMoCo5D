@@ -6,7 +6,7 @@ Simultaneous cardiopulmonary MRI: Free-running simultaneous imaging of the entir
 Data acquisition and Motion estimation:
 ![image](https://github.com/user-attachments/assets/8f42cfcb-b5b5-4406-b3c6-d9f148f79df0)
 
-5D motion resolving and Subspace-MoCo reconstruction
+5D motion resolving and Subspace-MoCo reconstruction:
 ![image](https://github.com/user-attachments/assets/89aa09f4-fb4f-4623-bbe4-4b746cddd06c)
 
 A demo cardiopulmonary MRI dataset can be downloaded from zenodo.org (https://zenodo.org/records/15033956).
